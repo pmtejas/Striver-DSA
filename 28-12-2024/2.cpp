@@ -15,8 +15,7 @@ int secondLargestNumber(vector<int>&nums){
             prev=nums[i];
         }
     }
-        return prev;
-    
+        return prev; 
 }
 
 int main()
